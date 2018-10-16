@@ -12,12 +12,7 @@
 
 ## 1. 快速集成
 
-把下载的 SDK 压缩包解压，压缩包内文件如下：
-
- - Demo 文件夹：Demo 项目，可直接运行；
- - sdk.md：本文档；
-
-其中 sdk 文件在 `Demo/TPAndroidMVPDemo/libs` 文件夹中，分别为`鉴权 (TPAuthentication.aar) `、`人脸识别 (TPFace.aar) `、`AR (TPGraphics.aar) `、`手势识别 (TPGestureDetect.aar) ` 四个 aar 文件；
+把仓库 clone 到本地，其中 sdk 文件在 `Demo/TPAndroidMVPDemo/libs` 文件夹中，分别为`鉴权 (TPAuthentication.aar) `、`人脸识别 (TPFace.aar) `、`AR (TPGraphics.aar) `、`手势识别 (TPGestureDetect.aar) ` 四个 aar 文件；
 
 ### 1.1 导入 aar 文件
 
