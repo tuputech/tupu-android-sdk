@@ -51,7 +51,7 @@ TPFaceAPI.init(
 
 ## 2. 人脸识别
 
-> ~人脸识别SDK~包括人脸识别、人脸检测和人脸属性功能，开发者通过调用识别接口，获得 TupuTech.FaceResult 对象，该对象包含错误码和人脸 (Face) 对象数组(见#2.3节).
+> **人脸识别SDK**包括人脸识别、人脸检测和人脸属性功能，开发者通过调用识别接口，获得 TupuTech.FaceResult 对象，该对象包含错误码和人脸 (Face) 对象数组(见#2.3节).
 
 ### 2.1 视频帧识别
 通过传入视频帧数据(通常为摄像头返回的数据)获得 FaceResult :
@@ -111,7 +111,7 @@ class Face {
 class Rect {
     float left, right, bottom, top; // 人脸矩形的四个边，通过canvas可直接绘制矩形框起人脸
     float faceness; // 人脸置信度，推荐使用Landmark中的faceness
-    float faceId; // 人脸在~当前画面~中的id，不可作为人脸唯一标注
+    float faceId; // 人脸在当前画面中的id，不可作为人脸唯一标注
 }
 
 class FaceLandmark {      
@@ -120,7 +120,7 @@ class FaceLandmark {
     float yaw; // yaw轴角度(如摇头)
     float roll; // roll轴角度(如歪脖子)
     float faceness; // 人脸置信度
-    float faceId; // 人脸在~当前画面~中的id
+    float faceId; // 人脸在当前画面中的id
 }
 
 class FaceFeature {
@@ -206,7 +206,7 @@ enum Appearance {
 
 ## 3. AR
 
-我们在 `TPGraphics` 中提供了大量接口，包括了~美颜~、~大眼瘦脸~、~2D、3D贴纸~等功能。这些功能需要依赖人脸识别 SDK 返回的**人脸关键点**，调用者无需关注二者之间数据的兼容性，详情请参考 Demo.
+我们在 `TPGraphics` 中提供了大量接口，包括了**美颜**、**大眼瘦脸**、**2D、3D贴纸**等功能。这些功能需要依赖人脸识别 SDK 返回的**人脸关键点**，调用者无需关注二者之间数据的兼容性，详情请参考 Demo.
 
 ### 3.1 初始化
 初始化接口完成 TPGraphics 的初始化工作。
@@ -378,7 +378,7 @@ mTPGraphicsFilter.setSmallFaceDegree(ratio); // 推荐在渲染线程进行
 
 ## 4. 手势识别
 
-> 手势识别 SDK 可以检测画面中人物的手势，感知用户进行~单手/双手比心~、~剪刀石头布~、~OK~、~点赞~、~666~、~摇滚~、~感谢~、~抱拳~等动作。
+> 手势识别 SDK 可以检测画面中人物的手势，感知用户进行**单手/双手比心**、**剪刀石头布**、**OK**、**点赞**、**666**、**摇滚**、**感谢**、**抱拳**等动作。
 
 ### 4.1 初始化手势识别 SDK
 在 SDK 使用之前，需要调用以下方法进行初始化工作：
