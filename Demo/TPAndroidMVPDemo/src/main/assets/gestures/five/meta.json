@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "name": "angel",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "items": [
+              {
+              "type": 2,
+              "scaleWidth": 0.4,
+              "scaleHeight": 0.4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "alignIndexes": [
+                               53, 82, 57
+                               ],
+              "folder": "p",
+              "frames": 1,
+              "frameDuration": 100,
+              "width": 200,
+              "height": 200,
+              "triggerType": 2,
+              "loop": 1
+              }
+              ]
+}

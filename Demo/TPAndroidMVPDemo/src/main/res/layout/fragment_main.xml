@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main.MainActivity">
+
+    <com.google.android.cameraview.CameraView
+        android:id="@+id/camera"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:OpenGL="on"
+        app:aspectRatio="16:9"
+        app:autoFocus="false"
+      />
+
+
+
+    <FrameLayout
+        android:id="@+id/visitor_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/tv_like"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/padding_gap"
+        android:layout_marginLeft="@dimen/margin_border"
+        android:layout_marginRight="@dimen/margin_border"
+        android:text="@string/like"
+        android:textColor="#fff"
+        android:textSize="@dimen/title_text_size"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/adv_container"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/stickers_switch_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/adv_container"
+        android:layout_marginBottom="@dimen/face_attend_logo_height"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+
+    <FrameLayout
+        android:id="@+id/adv_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/logo"
+        android:layout_width="@dimen/face_attend_logo_width"
+        android:layout_height="@dimen/face_attend_logo_height"
+        android:layout_marginBottom="@dimen/face_attend_logo_margin_bottom"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:srcCompat="@drawable/ic_logo_tuputech" />
+</android.support.constraint.ConstraintLayout>

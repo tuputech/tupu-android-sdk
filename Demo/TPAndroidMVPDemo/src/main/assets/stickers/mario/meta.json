@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "name": "angel",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "items": [
+              {
+              "type": 0,
+              "scaleWidth": 1.2,
+              "scaleHight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0.55,
+              "alignIndexes": [
+                               21, 82, 51
+                               ],
+              "folder": "hat",
+              "frames": 61,
+              "frameDuration": 100,
+              "width": 240,
+              "height": 187,
+              "triggerType": 1
+              },
+              {
+              "type": 0,
+              "scaleWidth": 0.9,
+              "scaleHight": 0,
+              "offsetX": 0,
+              "offsetY": 0.05,
+              "alignIndexes": [
+                               53, 82, 57
+                               ],
+              "folder": "face",
+              "frames": 61,
+              "frameDuration": 100,
+              "width": 137,
+              "height": 123,
+              "triggerType": 1
+              }
+              ]
+}

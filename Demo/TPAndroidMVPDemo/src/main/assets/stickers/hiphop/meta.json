@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "name": "hiphop",
+  "preview": "preview.jpg",
+  "audio": "angel_audio.mp3",
+  "items": [
+    {
+      "type": 0,
+      "scaleWidth": 0.7,
+      "scaleHight": 0,
+      "offsetX": 0,
+      "offsetY": 0.1,
+      "alignIndexes": [
+        25, 82, 38
+      ],
+      "folder": "glasses",
+      "frames": 61,
+      "frameDuration": 100,
+      "width": 351,
+      "height": 159,
+      "triggerType": 1
+    },
+    {
+      "type": 0,
+      "scaleWidth": 0.8,
+      "scaleHight": 0,
+      "offsetX": 0.1,
+      "offsetY": 0.4,
+      "alignIndexes": [
+        29, 82, 45
+      ],
+      "folder": "hat",
+      "frames": 61,
+      "frameDuration": 100,
+      "width": 351,
+      "height": 159,
+      "triggerType": 1
+    },
+    {
+      "type": 0,
+      "scaleWidth": 0.8,
+      "scaleHight": 0,
+      "offsetX": 0,
+      "offsetY": -0.8,
+      "alignIndexes": [
+        53, 82, 57
+      ],
+      "folder": "necklace",
+      "frames": 61,
+      "frameDuration": 100,
+      "width": 182,
+      "height": 200,
+      "triggerType": 1
+    }
+  ]
+}

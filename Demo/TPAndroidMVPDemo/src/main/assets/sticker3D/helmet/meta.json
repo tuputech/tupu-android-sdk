@@ -1,0 +1,22 @@
+{
+    "name": "chrisHat",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "lightPos": [0.0, 0.0, 0.0],
+    "items": [
+              {
+              "path":"model.obj",
+              
+              "//":"transformation matrices concated as translate * rotation * scale",
+              "rotation_xyz": [0.0, 0.0, 0.0],
+              "translate_xyz": [0.0, 5.0, 20.0],
+              "scale_xyz": [0.45, 0.5, 0.45],
+              
+              "//":"materials",
+              "diffuse_rgb": [3.0, 3.0, 3.0],
+              "specular_rgb": [1.0, 1.0, 1.0],
+              "ambient_rgb": [0.1, 0.1, 0.1],
+              "shineness": 10.0
+              }
+    ]
+}

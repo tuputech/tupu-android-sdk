@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "name": "mvp_male",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "items": [
+              {
+              "type": 0,
+              "scaleWidth": 1.5,
+              "offsetX": -0.01,
+              "offsetY": 0.12,
+              "alignIndexes": [
+                               53, 82, 57
+                               ],
+              "folder": "face",
+              "frames": 40,
+              "frameDuration": 100,
+              "width": 350,
+              "height": 350,
+              "triggerType": 1
+              }
+              ]
+}

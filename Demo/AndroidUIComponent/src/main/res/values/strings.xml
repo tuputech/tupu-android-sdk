@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AndroidUICommonComponent</string>
+    <string name="recommend">为你推荐</string>
+    <string name="tips">扫一扫\n优惠更多~</string>
+    <string name="like">喜欢我?给我比芯点赞呗~</string>
+    <string name="tupu_tech">本技术由图普科技提供</string>
+    <string name="default_slogan">快来领取你的专属饮品吧</string>
+    <string name="product">智能推荐机</string>
+    <string name="face_score">颜值:</string>
+    <string name="new_adv_tips">获取更多优惠</string>
+
+    <string name="confirm">确 定</string>
+
+    <!--签到机-->
+    <string name="face_attendance">人脸签到</string>
+    <string name="sign_tips">请将正脸保持在虚线框内</string>
+    <string name="welcome">感谢您莅临图普科技</string>
+    <!--<string name="welcome">感谢您莅临互联网+生态基地</string>-->
+    <!--<string name="welcome">感谢您莅临CCF YOCSEF广州15周年庆典</string>-->
+    <string name="switch_camera">切换摄像头</string>
+    <string name="add_person">增加人员</string>
+    <string name="threshold_setting">threshold_setting</string>
+    <string name="threshold_like">相似度阀值</string>
+    <string name="frequency">识别频率：单位（s）</string>
+    <string name="nick">姓名</string>
+    <string name="company">公司</string>
+    <string name="career">职业</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="pick_pic">pick_pic</string>
+    <string name="member_list">人员列表</string>
+    <string name="add_face">增加人脸</string>
+    <string name="visitors">访客记录</string>
+    <string name="appearance_time">时间</string>
+    <string name="personal_record">个人到访记录</string>
+    <string name="save">保存</string>
+    <string name="classification">分组</string>
+    <string name="delete">删除</string>
+    <string name="inserted_already">已入库</string>
+    <string name="cancel">取消</string>
+    <string name="chooseAll">选择全部</string>
+    <string name="edit">编辑</string>
+    <string name="setting">设置</string>
+    <string name="max_feature">个人最多持有特征数量</string>
+    <string name="TOP_N">模糊搜索时最多取前N个的数量</string>
+    <string name="insert_failed_detail">入库失败详情</string>
+    <string name="member">人员</string>
+    <string name="add_person_btn">人员添加</string>
+    <string name="insert_all">批量导入</string>
+    <string name="clear_all">一键清除</string>
+    <string name="add">新增</string>
+
+
+</resources>

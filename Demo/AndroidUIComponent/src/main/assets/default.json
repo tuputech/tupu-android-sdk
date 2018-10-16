@@ -1,0 +1,160 @@
+{
+	"male": [
+		{
+			"age": "未知",
+			"ageLevel": [11],
+			"tag": "吃瓜群众",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/shuiguo.png",
+			"product": "满杯水果茶",
+			"summary": "乌龙茶与满满的鲜果VC，充满营养",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "0-15",
+			"ageLevel": [0, 1, 2, 3],
+			"tag": "萌系正太",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/laoxiang.png",
+			"product": "老巷奶茶",
+			"summary": "纯牛奶与纯茶，加上Q弹的珍珠，一如我们的纯真。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "16-20",
+			"ageLevel": [4],
+			"tag": "小鲜肉",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/shuiguo.png",
+			"product": "满杯水果茶",
+			"summary": "乌龙茶与满满的鲜果VC，充满营养",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "21-25",
+			"ageLevel": [5],
+			"tag": "小鲜肉",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/jiuquhongmei.png",
+			"product": "奶沫九曲红梅",
+			"summary": "春雨采摘的九曲红茶，清新茶香中混合浓密细滑奶沫。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "26-30",
+			"ageLevel": [12],
+			"tag": "佛系青年",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "奶沫单枞",
+			"summary": "单枞佛系茶香浓厚，搭配绵密芝士奶沫，厚醇回甘。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "31-40",
+			"ageLevel": [6],
+			"tag": "保温杯中年",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "陈皮普洱拉缇",
+			"summary": "百年古树普洱，结合纯天然有机小青柑，稳重如你",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "41-60",
+			"ageLevel": [7, 8],
+			"tag": "老腊肉",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "古坦红拉缇",
+			"summary": "独特有机陈香红茶，纯正醇和，犹如岁月。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": ">60",
+			"ageLevel": [9, 10],
+			"tag": "老司机",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "古坦红拉缇",
+			"summary": "独特有机陈香红茶，纯正醇和，犹如岁月。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		}
+	],
+	"female": [
+		{
+			"age": "未知",
+			"ageLevel": [11],
+			"tag": "吃瓜群众",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/momomangmang.png",
+			"product": "沫沫芒芒",
+			"summary": "每一口都是芒果果肉，配上绵密芝士奶沫，鲜香细滑。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "0-15",
+			"ageLevel": [0, 1, 2, 3],
+			"tag": "豆蔻少女",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/laoxiang.png",
+			"product": "老巷奶茶",
+			"summary": "纯牛奶与纯茶，加上Q弹的珍珠，一如我们的纯真。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "16-20",
+			"ageLevel": [4],
+			"tag": "二次元",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/momomangmang.png",
+			"product": "沫沫芒芒",
+			"summary": "每一口都是芒果果肉，配上绵密芝士奶沫，鲜香细滑。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "21-25",
+			"ageLevel": [5],
+			"tag": "小仙女",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/shuiguo.png",
+			"product": "满杯水果茶",
+			"summary": "乌龙茶与满满的鲜果VC，充满营养",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "26-30",
+			"ageLevel": [12],
+			"tag": "猪猪女孩",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/yunwuqing.png",
+			"product": "奶沫云雾青",
+			"summary": "云间雾里青茶，搭配细腻奶沫，清香透着奶香。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "31-40",
+			"ageLevel": [6],
+			"tag": "气质御姐",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/yunwuqing.png",
+			"product": "云雾青拉缇",
+			"summary": "云间雾里青茶，搭配细腻奶沫，清香透着奶香。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": "41-60",
+			"ageLevel": [7, 8],
+			"tag": "一枝花",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "古坦红拉缇",
+			"summary": "独特有机陈香红茶，纯正醇和，犹如岁月。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		},
+		{
+			"age": ">60",
+			"ageLevel": [9, 10],
+			"tag": "修仙",
+			"photo": "https://www.tuputech.com/tupu-ad-machine/img/chenpi.png",
+			"product": "古坦红拉缇",
+			"summary": "独特有机陈香红茶，纯正醇和，犹如岁月。",
+			"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+		}
+	],
+	"noPeople": {
+		"photos": [
+			"https://www.tuputech.com/tupu-ad-machine/img/banner_1.webp",
+			"https://www.tuputech.com/tupu-ad-machine/img/banner_2.webp",
+			"https://www.tuputech.com/tupu-ad-machine/img/banner_3.webp",
+			"https://www.tuputech.com/tupu-ad-machine/img/banner_4.webp"
+		],
+		"summary": "快来领取你的专属饮品吧",
+		"url": "http://weixin.qq.com/r/TUgfBzzEvGHDrXhk9x1f"
+	}
+}

@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "name": "mvp_male",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "items": [
+              {
+              "type": 0,
+              "scaleWidth": 1.0,
+              "scaleHight": 1.0,
+              "offsetX": 0.0,
+              "offsetY": 0.32,
+              "alignIndexes": [
+                               21, 82, 51
+                               ],
+              "folder": "hat",
+              "frames": 1,
+              "frameDuration": 100,
+              "width": 350,
+              "height": 350,
+              "triggerType": 1
+              },
+              {
+              "type": 0,
+              "scaleWidth": 1.0,
+              "scaleHeight": 0.5,
+              "offsetX": 0,
+              "offsetY": 0.3,
+              "alignIndexes": [
+                               53, 82, 57
+                               ],
+              "folder": "face",
+              "frames": 40,
+              "frameDuration": 100,
+              "width": 350,
+              "height": 350,
+              "triggerType": 1
+              }
+              ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "angel",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "lightPos": [0.0, 0.0, 0.0],
+    "light_rgb": [1.0, 0.0, 0.0],
+    "items": [
+              {
+              "path":"egypt.obj",
+              
+              "//":"transformation matrices concated as translate * rotation * scale",
+              "rotation_xyz": [-90.0, 0.0, 0.0],
+              "translate_xyz": [0.0, 15.0, 75.0],
+              "scale_xyz": [4.0, 4.0, -4.0],
+              
+              "//":"materials",
+              "diffuse_rgb": [1.0, 1.0, 1.0],
+              "specular_rgb": [1.0, 1.0, 1.0],
+              "ambient_rgb": [0.1, 0.1, 0.1],
+              "shineness": 10.0
+              }
+    ]
+}

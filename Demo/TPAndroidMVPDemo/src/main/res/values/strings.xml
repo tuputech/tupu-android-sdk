@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TPAndroidMVPDemo</string>
+    <string name="recommend">为你推荐</string>
+    <string name="tips">扫一扫\n优惠更多~</string>
+    <string name="like">喜欢我?给我比芯点赞呗~</string>
+</resources>

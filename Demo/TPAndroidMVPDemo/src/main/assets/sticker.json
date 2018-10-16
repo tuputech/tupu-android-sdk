@@ -1,0 +1,91 @@
+[
+  {
+    "path": "",
+    "name": "Retouch",
+    "classify": 4
+  },
+  {
+    "path": "",
+    "name": "Eyes",
+    "classify": 5
+  },
+  {
+    "path": "",
+    "name": "Face",
+    "classify": 6
+  },
+  {
+    "path": "sticker3D",
+    "name": "3D",
+    "classify": 3,
+    "stickers": [
+      {
+        "path": "sticker3D/v",
+        "name": "v",
+        "selectedIcon": "sticker3D/v/v_selected.png",
+        "unSelectedIcon": "sticker3D/v/v.png"
+      },
+      {
+        "path": "sticker3D/egypt",
+        "name": "egypt",
+        "selectedIcon": "sticker3D/egypt/egypt_selected.png",
+        "unSelectedIcon": "sticker3D/egypt/egypt.png"
+      },
+      {
+        "path": "sticker3D/helmet",
+        "name": "mario",
+        "selectedIcon": "sticker3D/helmet/helmet_selected.png",
+        "unSelectedIcon": "sticker3D/helmet/helmet.png"
+      }
+    ]
+  },
+  {
+    "path": "stickers/",
+    "name": "2D",
+    "classify": 2,
+    "stickers": [
+      {
+        "path": "stickers/angel",
+        "name": "angel",
+        "selectedIcon": "stickers/angel/cat_selected.png",
+        "unSelectedIcon": "stickers/angel/cat.png"
+      },
+      {
+        "path": "stickers/hiphop",
+        "name": "hiphop",
+        "selectedIcon": "stickers/hiphop/music_selected.png",
+        "unSelectedIcon": "stickers/hiphop/music.png"
+      },
+      {
+        "path": "stickers/mario",
+        "name": "mario",
+        "selectedIcon": "stickers/mario/mario_selected.png",
+        "unSelectedIcon": "stickers/mario/mario.png"
+      },
+      {
+        "path": "stickers/mvp_male",
+        "name": "mvp_male",
+        "selectedIcon": "stickers/mvp_male/male_hat_selected.png",
+        "unSelectedIcon": "stickers/mvp_male/male_hat.png"
+      },
+      {
+        "path": "stickers/mvp_female",
+        "name": "mvp_female",
+        "selectedIcon": "stickers/mvp_female/female_hat_selected.png",
+        "unSelectedIcon": "stickers/mvp_female/female_hat.png"
+      },
+      {
+        "path": "stickers/mvp_panda",
+        "name": "mvp_panda",
+        "selectedIcon": "stickers/mvp_panda/pandan_selected.png",
+        "unSelectedIcon": "stickers/mvp_panda/pandan.png"
+      },
+      {
+        "path": "stickers/mvp_rabbit",
+        "name": "mvp_rabbit",
+        "selectedIcon": "stickers/mvp_rabbit/rabbit_selected.png",
+        "unSelectedIcon": "stickers/mvp_rabbit/rabbit.png"
+      }
+    ]
+  }
+]

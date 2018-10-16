@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">300dp</dimen>
+    <dimen name="height">164dp</dimen>
+    <dimen name="tag_size">30sp</dimen>
+    <dimen name="age_size">26sp</dimen>
+    <dimen name="beauty_size">28sp</dimen>
+    <dimen name="tag_width">144dp</dimen>
+    <dimen name="tag_height">73dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_left">28dp</dimen>
+    <dimen name="recommend_board_height">780dp</dimen>
+    <dimen name="margin_border">48dp</dimen>
+    <dimen name="margin_gap">15dp</dimen>
+    <dimen name="padding_gap">15dp</dimen>
+    <dimen name="padding_border">45dp</dimen>
+    <dimen name="padding_recommend">65dp</dimen>
+    <dimen name="picture_width">510dp</dimen>
+    <dimen name="picture_height">510dp</dimen>
+    <dimen name="title_text_size">54sp</dimen>
+    <dimen name="content_text_size">36sp</dimen>
+    <dimen name="line_width">6dp</dimen>
+    <dimen name="qrcode_width">230dp</dimen>
+    <dimen name="qrcode_height">230dp</dimen>
+    <dimen name="qrcode_size">230dp</dimen>
+    <dimen name="text_size_tips">32sp</dimen>
+
+    <dimen name="face_attend_logo_height">320dp</dimen>
+    <dimen name="face_attend_logo_width">520dp</dimen>
+    <dimen name="face_attend_logo_margin_bottom">90dp</dimen>
+
+    <dimen name="tv_recommend_margin_top">90dp</dimen>
+
+
+    <dimen name="tag_margin_left">15.34dp</dimen>
+    <dimen name="tag_margin_top">8dp</dimen>
+    <dimen name="tag_margin_bottom">8.66dp</dimen>
+    <dimen name="tag_padding_left">16dp</dimen>
+    <dimen name="tag_padding_right">16dp</dimen>
+    <dimen name="tag_padding_top">2dp</dimen>
+    <dimen name="tag_padding_bottom">2dp</dimen>
+    <dimen name="tag_text_size">16sp</dimen>
+    <dimen name="tag_age_margin_left">8dp</dimen>
+    <dimen name="tag_age_margin_right">15.34dp</dimen>
+    <dimen name="tag_age_text_size">10sp</dimen>
+    <dimen name="tag_score_text_size">14sp</dimen>
+    <dimen name="tag_score_margin_bottom">8dp</dimen>
+
+    <dimen name="round_radius">20dp</dimen>
+
+
+    <dimen name="like_width">96dp</dimen>
+    <dimen name="like_height">96dp</dimen>
+
+
+
+    <dimen name="visitor_width">96dp</dimen>
+    <dimen name="visitor_height">96dp</dimen>
+
+</resources>

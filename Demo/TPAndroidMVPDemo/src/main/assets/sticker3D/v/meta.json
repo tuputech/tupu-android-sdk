@@ -1,0 +1,22 @@
+{
+    "name": "snake",
+    "preview": "preview.jpg",
+    "audio": "angel_audio.mp3",
+    "lightPos": [0.0, 0.0, 0.0],
+    "items": [
+              {
+              "path":"v.obj",
+              
+              "//":"transformation matrices concated as translate * rotation * scale",
+              "rotation_xyz": [0.0, 0.0, 0.0],
+              "translate_xyz": [-6.0, -9.0, 45.0],
+              "scale_xyz": [110.0, 110.0, 120.0],
+              
+              "//":"materials",
+              "diffuse_rgb": [1.0, 1.0, 1.0],
+              "specular_rgb": [1.0, 1.0, 1.0],
+              "ambient_rgb": [0.1, 0.1, 0.1],
+              "shineness": 10.0
+              }
+    ]
+}
